@@ -1,0 +1,36 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.overall{
+  display: flex;
+  justify-content: center;
+}
+.overall input{
+  width: 200px;
+  height: 30px;
+  
+}
+.box{
+  display: flex;
+  justify-content: center;
+}
+.box{
+  margin-top: 50px;
+}
+.box button{
+  width: 110px;
+  height: 30px;
+  margin: 10px;
+}
+.overall button{
+  width: 150px;
+  height: 30px;
+  background-color: gray;
+  color:white;
+  border-radius: 10px;
+  border: none;
+}
+
+
